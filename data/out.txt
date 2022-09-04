@@ -1,8 +1,8 @@
-total 36
--rw-rw-r-- 1 bunker bunker 2672 Sep  1 10:47 001 What does yield do in Python.ipynb
-drwxrwxr-x 4 bunker bunker 4096 Sep  2 14:08 002 What does if __name__ == "__main__": do
--rw-rw-r-- 1 bunker bunker 1967 Sep  2 14:08 003 What is the ternary conditional operator in Python?.ipynb
--rw-rw-r-- 1 bunker bunker 6340 Sep  2 14:08 004 How to check whether a file exists without exceptions?.ipynb
--rw-rw-r-- 1 bunker bunker 2303 Sep  2 14:21 005 How to merge 2 Python dictionaries in a singe expression.ipynb
--rw-rw-r-- 1 bunker bunker 4669 Sep  3 08:57 006 How to execute a system command or run a program in Python.ipynb
-drwxrwxr-x 3 bunker bunker 4096 Sep  3 08:58 data
+total 56
+-rw-r--r--  1 willbunker  staff  2672 Sep  1 11:21 001 What does yield do in Python.ipynb
+drwxr-xr-x  8 willbunker  staff   256 Sep  1 11:41 002 What does if __name__ == "__main__": do
+-rw-r--r--  1 willbunker  staff  1967 Sep  1 13:44 003 What is the ternary conditional operator in Python?.ipynb
+-rw-r--r--  1 willbunker  staff  6340 Sep  2 13:33 004 How to check whether a file exists without exceptions?.ipynb
+-rw-r--r--  1 willbunker  staff  2314 Sep  2 14:35 005 How to merge 2 Python dictionaries in a single expression.ipynb
+-rw-r--r--  1 willbunker  staff  4882 Sep  3 09:06 006 How to execute a system command or run a program in Python.ipynb
+drwxr-xr-x  5 willbunker  staff   160 Sep  3 09:06 data
